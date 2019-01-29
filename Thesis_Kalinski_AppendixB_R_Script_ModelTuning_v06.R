@@ -1,7 +1,6 @@
 #######################################################################################
 # 
 # FILE Thesis_Kalinski_AppendixB_R_Script_ModelTuning_vXX.R
-# SEE ALSO Thesis_Kalinski_AppendixB_R_Script_ModelTuning_vXX.R
 # 
 # USC SSCI 594 - Masters Thesis in GIST
 # Fall 2018/Spring 2019
