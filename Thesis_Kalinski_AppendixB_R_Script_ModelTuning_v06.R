@@ -10,12 +10,13 @@
 # 
 # Following code builds the initial tuning evaluation models for the thesis study
 # The ENMeval package is used to facilitate this and generate the necessary metrics for parameter selection
-# ENMeval uses the Maxnet package to create the MaxEnt models
+# ENMeval uses either the MaxNet package to create the MaxEnt models or the MaxEnt java jar file.
+# The latter is used in this study.
 #
 # Subsequent work will generate tuned and default models for comparison
 #
 # Code within this module was copied from or modeled after code provided by 
-# Muscarella, Robert, Peter J. Galante, Mariano Soley-Guardia, Robert A. Boria, Jamie M. Kass, María Uriarte, and Robert P. Anderson. 2014. 
+# Muscarella, Robert, Peter J. Galante, Mariano Soley-Guardia, Robert A. Boria, Jamie M. Kass, MarÃ­a Uriarte, and Robert P. Anderson. 2014. 
 #     "ENMeval: An R package for conducting spatially independent evaluations and estimating optimal model complexity for Maxent ecological niche models."  
 #     Methods in Ecology and Evolution 5 (11):1198-1205. doi: 10.1111/2041-210X.12261.
 #     R Vignette: https://cran.r-project.org/web/packages/ENMeval/vignettes/ENMeval-vignette.html
