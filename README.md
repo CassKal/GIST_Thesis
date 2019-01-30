@@ -7,4 +7,4 @@ Graduate Student
 Geographic Information Science and Technology
 Spatial Science Institute
 University of Southern California
-ckalinsk@usc.edu / 408-230-3925
+ckalinsk@usc.edu
